@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.springframework.batch.repeat.RepeatStatus"/>
+<fullyQualifiedTypeName name="org.springframework.batch.core.Step"/>
+<fullyQualifiedTypeName name="com.batch.tasks.MyTaskOne"/>
+<fullyQualifiedTypeName name="com.batch.tasks.MyTaskTwo"/>
+<fullyQualifiedTypeName name="org.springframework.batch.core.launch.support.RunIdIncrementer"/>
+<fullyQualifiedTypeName name="org.springframework.boot.CommandLineRunner"/>
+<fullyQualifiedTypeName name="org.springframework.batch.core.launch.JobLauncher"/>
+<fullyQualifiedTypeName name="org.springframework.batch.core.Job"/>
+<fullyQualifiedTypeName name="org.springframework.batch.core.JobParameters"/>
+<fullyQualifiedTypeName name="org.springframework.batch.core.JobParametersBuilder"/>
+<fullyQualifiedTypeName name="org.springframework.batch.core.configuration.annotation.EnableBatchProcessing"/>
+</qualifiedTypeNameHistroy>
